@@ -9,3 +9,4 @@ This is a personal challenge where I try to finish this Data Structures and Algo
 ## Day 0
 
 I watched the first 6 videos of the playlist and learned about what an Algorithm really is, as well as how to calculate the Big O notation of an algorithm. At the last video (Math Algorithms), I was given the instructions of the algorithms I'd take the next day. 
+![image](https://github.com/KingNoran/DSA-Challenge/assets/108130291/7747b099-5062-4bc2-a9cb-d88a310daee2)
