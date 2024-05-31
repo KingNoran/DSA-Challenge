@@ -7,3 +7,5 @@ However, now that I've watched the video, I've discovered a better way of implem
 # Experience
 
 I definitely learned something new today. Perhaps the earlier method that I mentioned was far too lazy and complacent of a mindset to have. I must find balance between thinking too much and thinking too less. 
+
+I also learned how to optimize it by squaring the number so that the unnecessary numbers may be dismissed.
