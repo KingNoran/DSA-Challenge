@@ -9,7 +9,7 @@ function fibonacci(n){
     for(let i = 0; i < n; i++){
         if (i > 1){
             // Take the last 2 numbers in the set then add them to get the new number
-            fibonacci.push(fibonacci[fibonacci.length - 1] + fibonacci[fibonacci.length - 2])
+            fibonacci.push(fibonacci[i - 1] + fibonacci[i - 2])
         } else {
             // If the input is merely "2", then push 0 and 1
             fibonacci.push(i);
