@@ -1,6 +1,8 @@
 # DSA-Challenge
 This is a personal challenge where I try to finish this Data Structures and Algorithms playlist in just a span of a week!
 
+Note: Due to the busy nature of my Finals, I decided to postpone the challenge for a while. I have officially resumed the challenged on June 20, 2024.
+
 [Here is the link of the playlist.](https://youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP&si=cUg1VYzHnUF60pzs)
 
 ## Languages used:
