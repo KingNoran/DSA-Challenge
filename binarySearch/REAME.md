@@ -7,7 +7,7 @@ Input size reduced by half = O(logn)
 
 Since we have 1 loop and the conditions let us split the array into half each time, we can safely say that the time complexity of this algorithm is 
 
-O(logn/2)
+O(logn)
 
 As the value of n increases, the number of lines to be executed also increases, but not necessarily relativistic.
 
