@@ -1,7 +1,7 @@
 # DSA-Challenge
 This is a personal challenge where I try to finish this Data Structures and Algorithms playlist in just a span of a week!
 
-Note: Due to the busy nature of my Finals, I decided to postpone the challenge for a while. I have officially resumed the challenged on June 20, 2024.
+Note: Due to the busy nature of my Finals, I decided to postpone the challenge for a while. I have officially resumed the challenged on June 21, 2024.
 
 [Here is the link of the playlist.](https://youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP&si=cUg1VYzHnUF60pzs)
 
@@ -25,3 +25,10 @@ I watched the first 6 videos of the playlist and learned about what an Algorithm
 I watched videos 7 to 11 of the playlist. I learned how to implement the fibonacci function, how to implement a factorial function, how to implement a function that identifies prime numbers, and a function which identifies if a number is a product of a power of two. The last video introduced me to the concept of recursion.
 
 ![image](https://github.com/KingNoran/DSA-Challenge/assets/108130291/b65b0693-950e-49b6-8f45-531576c322e7)
+
+## Notice
+
+It is currently June 20, 2024. I had postponed my challenge until now due to the busy nature of my school. To compensate for this, I learned how to perform Binary Search and it's recursive counterpart. They were both hard to be sure, seeing that I was unable to solve them by my own. That made me realize that taking long breaks dulls the edge that I've built up after practicing. I'll try my best to maintain this edge in the following days, and I shall resume my challenge tomorrow.
+
+# Day 2
+
