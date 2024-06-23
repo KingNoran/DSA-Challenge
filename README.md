@@ -34,5 +34,5 @@ It is currently June 20, 2024. I had postponed my challenge until now due to the
 
 # Day 2
 
-After the Search algorithms, I went on to the sorting algorithms. This time, I was able to solve them with relative ease (bubble sort, insertion sort) though I doubt it will be as easy with the following sorts ahead of me.
+After the Search algorithms, I went on to the sorting algorithms. This time, I was able to solve them with relative ease (bubble sort, insertion sort), however I was aided with visualization through animations. Would that count as cheating? Well, I'm not sure. I wouldn't count it as cheating since there was no code, only a visual representation of what should happen. Easy though it may be, I doubt the following sorts ahead of me would be as lackluster.
 
