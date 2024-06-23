@@ -1,5 +1,7 @@
 # DSA-Challenge
-This is a personal challenge where I try to finish this Data Structures and Algorithms playlist in just a span of a week!
+This is a personal challenge where I try to finish this Data Structures and Algorithms playlist in just a span of a month (or less)! No google, no chatgpt, no cheating!
+
+However, if I do get stuck on one problem for too long (let's say, a two days on just one problem), I can peek at the solution.
 
 Note: Due to the busy nature of my Finals, I decided to postpone the challenge for a while. I have officially resumed the challenged on June 21, 2024.
 
@@ -31,4 +33,6 @@ I watched videos 7 to 11 of the playlist. I learned how to implement the fibonac
 It is currently June 20, 2024. I had postponed my challenge until now due to the busy nature of my school. To compensate for this, I learned how to perform Binary Search and it's recursive counterpart. They were both hard to be sure, seeing that I was unable to solve them by my own. That made me realize that taking long breaks dulls the edge that I've built up after practicing. I'll try my best to maintain this edge in the following days, and I shall resume my challenge tomorrow.
 
 # Day 2
+
+After the Search algorithms, I went on to the sorting algorithms. This time, I was able to solve them with relative ease (bubble sort, insertion sort) though I doubt it will be as easy with the following sorts ahead of me.
 
